@@ -46,3 +46,9 @@ $('#quote').html(textToDisplay);
 });
 
 
+$('.my-slider').unslider({
+	autoplay: true, 
+
+});
+
+
