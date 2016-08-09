@@ -51,4 +51,12 @@ $('.my-slider').unslider({
 
 });
 
+$('#refresh').on('click', function(){
+	location.reload();
 
+});
+
+$('#poop').on('click', function(){
+	$('#refresh').show();
+
+});

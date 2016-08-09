@@ -279,3 +279,15 @@ a.unslider-arrow {
     width: 16px;
     padding: 4px;
 }
+
+
+#refresh {
+	margin-bottom: 66px;
+	display: none;
+
+}
+
+.center {
+	text-align: center;
+
+}
