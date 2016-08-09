@@ -80,6 +80,7 @@ img{
 	display: block;
 	border: solid purple;
 	border-radius: 50%;
+	width: 50vw;
 
 }
 
@@ -264,7 +265,17 @@ input#checky, label.terms {
 	margin: 20px;
 }
 
-/*a #modallink {
-	text-align: center;
-	text-decoration: none;
-}*/
+.my-slider {
+
+}
+
+a.unslider-arrow {
+	display: none;
+}
+
+.unslider-nav ol li {
+	background: #FF0000;
+    height: 16;
+    width: 16px;
+    padding: 4px;
+}
